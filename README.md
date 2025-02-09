@@ -1,5 +1,7 @@
 # Welcome to My GitHub
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SujithaVenkidusamy&label=Profile%20views&color=0e75b6&style=flat" alt="SujithaVenkidusamy" /> </p>
+
 ## 👩‍💻 Hi I'm Sujitha
 
 > _"Code, create, conquer – the journey of a developer never ends."_
