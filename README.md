@@ -1,7 +1,5 @@
 # Welcome to My GitHub
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=SujithaVenkidusamy&label=Profile%20views&color=0e75b6&style=flat" alt="SujithaVenkidusamy" /> </p>
-
 ## 👩‍💻 Hi I'm Sujitha
 
 > _"Code, create, conquer – the journey of a developer never ends."_
@@ -70,4 +68,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitha-venkidusamy-432b632bb/)
 [![Email](https://img.shields.io/badge/Email-Here-red?style=flat&logo=gmail&logoColor=white)](mailto:sujithavenkidusamy@gmail.com)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=SujithaVenkidusamy&label=Profile%20Views&color=blue&style=flat)
 
