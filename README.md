@@ -65,9 +65,11 @@
 ---
 
 ## 📬 Let's Connect
+🌐 **GitHub**: [SujithaVenkidusamy](https://github.com/SujithaVenkidusamy)  
+🔗 **LinkedIn**: [Sujitha's LinkedIn](https://www.linkedin.com/in/sujitha-venkidusamy-432b632bb/)  
+📩 **Email**: [sujithavenkidusamy@gmail.com](mailto:sujithavenkidusamy@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujitha-venkidusamy-432b632bb/)
-[![Email](https://img.shields.io/badge/Email-Here-red?style=flat&logo=gmail&logoColor=white)](mailto:sujithavenkidusamy@gmail.com)
+_"Think big, build smart, and inspire change."_ 🚀
 
 ---
 
