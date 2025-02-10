@@ -7,7 +7,7 @@
 ### 🔗 LinkedIn Profile [Sujitha's LinkedIn](https://www.linkedin.com/in/sujitha-venkidusamy-432b632bb/)
 
 ### 🐱 Leetcode  [Sujitha's Leetcode](https://leetcode.com/u/SujithaVenkidusamy/)
-📝 [Resume](https://drive.google.com/file/d/1A8giEzXgRhhT1Lkk3Uoa-DlFJ4VslwI0/view?usp=sharing)
+### 📝 Resume [Sujitha's Resume](https://drive.google.com/file/d/1A8giEzXgRhhT1Lkk3Uoa-DlFJ4VslwI0/view?usp=sharing)
 ---
 
 ## 🌱 Areas of Interest
