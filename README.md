@@ -8,6 +8,8 @@
 
 ### 🐱 Leetcode  [Sujitha's Leetcode](https://leetcode.com/u/SujithaVenkidusamy/)
 
+### 📝 Resume [Sujitha's Resume](https://drive.google.com/file/d/1A8giEzXgRhhT1Lkk3Uoa-DlFJ4VslwI0/view?usp=sharing)
+
 ---
 
 ## 🌱 Areas of Interest
