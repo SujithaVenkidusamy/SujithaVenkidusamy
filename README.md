@@ -14,8 +14,8 @@
 
 ## 🌱 Areas of Interest
 
-- Data Science
-- SQL
+- Application Development
+- Flutter and Full Stack Applications
 - UI/UX
 - Project Management
 
