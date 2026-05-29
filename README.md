@@ -1,80 +1,100 @@
-# Welcome to My GitHub
+# 👋 Hi, I'm Sujitha V
 
-## 👩‍💻 Hi I'm Sujitha
+### Aspiring Flutter & Full Stack Developer
 
-> _"Code, create, conquer – the journey of a developer never ends."_
-
-### 🔗 LinkedIn Profile [Sujitha's LinkedIn](https://www.linkedin.com/in/sujitha-venkidusamy-432b632bb/)
-
-### 🐱 Leetcode  [Sujitha's Leetcode](https://leetcode.com/u/SujithaVenkidusamy/)
-
-### 📝 Resume [Sujitha's Resume](https://drive.google.com/file/d/1A8giEzXgRhhT1Lkk3Uoa-DlFJ4VslwI0/view?usp=sharing)
+Passionate about building scalable cross-platform mobile applications and full stack web solutions with modern UI/UX, responsive workflows, and enterprise-level functionality.
 
 ---
 
-## 🌱 Areas of Interest
+## 🚀 About Me
 
-- Application Development
-- Flutter and Full Stack Applications
-- UI/UX
-- Project Management
-
----
-
-## I Code In
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" />
-
-[![git](https://user-images.githubusercontent.com/80870870/226376967-f464b0a4-5906-4d91-bcab-4176898af55a.png)](https://github.com/surajbhan-3/Skills_logos)
-[![vscode](https://user-images.githubusercontent.com/80870870/226378741-10a77626-378c-46c6-8dd4-e08617bcefcd.png)](https://github.com/surajbhan-3/Skills_logos)
-[![linux](https://user-images.githubusercontent.com/80870870/226421962-46da77f8-2d0a-47bd-b58a-66f4a9ec0fd4.png)](https://github.com/surajbhan-3/Skills_logos)
+* 📱 Flutter Developer with hands-on experience in enterprise mobile applications
+* 🌐 Full Stack Developer skilled in React.js, Node.js, Laravel, and MySQL
+* 🔗 Experienced in REST API integration, responsive UI development, and workflow management
+* 🏢 Worked on real-time enterprise applications during internships
+* 🎯 Interested in Application Development, UI/UX, and Scalable Software Solutions
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Java
-- SQL
-- Python
-- Designing
-- Linux
-- Git and GitHub
+### Languages
 
----
+* Dart
+* JavaScript
+* HTML & CSS
+* Java
+* Python
 
-## 🔥 GitHub Streak & Trophies
+### Frameworks & Technologies
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujithaVenkidusamy&theme=radical)
+* Flutter
+* React.js
+* Node.js
+* Laravel
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=SujithaVenkidusamy&theme=darkhub)
+### Database
 
----
+* MySQL
 
-# Leetcode
+### Tools & Platforms
 
-### Leetcode-solved
-![LeetCode Stats](https://leetcard.jacoblin.cool/SujithaVenkidusamy?theme=dark&font=Port%20Lligat%20Sans&ext=heatmap)
-
-# Sujitha's GitHub Stats
-![Sujitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujithaVenkidusamy&show_icons=true&theme=radical)
-
-# Sujitha's GitHub Contribution
-![Sujitha's GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=SujithaVenkidusamy&bg_color=141414&color=9e4c98&line=317d4e&point=c478ba&area=true&hide_border=true)
-
----
-
-## 📬 Let's Connect
-🌐 **GitHub**: [SujithaVenkidusamy](https://github.com/SujithaVenkidusamy)  
-🔗 **LinkedIn**: [Sujitha's LinkedIn](https://www.linkedin.com/in/sujitha-venkidusamy-432b632bb/)  
-📩 **Email**: [sujithavenkidusamy@gmail.com](mailto:sujithavenkidusamy@gmail.com)  
-
-_"Think big, build smart, and inspire change."_ 🚀
+* Git & GitHub
+* VS Code
+* Postman
+* XAMPP
+* Figma
+* Linux
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=SujithaVenkidusamy&label=Profile%20Views&color=blue&style=flat)
+## 💼 Enterprise Projects
 
+### 📦 Pallet Tracking System
+
+Developed a full stack pallet tracking system using React.js, Laravel, MySQL, and REST APIs for inventory tracking, vendor workflows, and stock monitoring across multiple locations.
+
+### 🍽️ Corporate Cafeteria Application
+
+Built a Flutter-based enterprise cafeteria management application with meal scheduling, Microsoft SSO authentication, responsive UI, and real-time order tracking.
+
+### 🏢 Meeting Room Wrapper Application
+
+Developed a Flutter-based meeting room display system with WebView integration, automated schedule synchronization, and kiosk-style real-time display workflows.
+
+### 🛂 Visitor Pass Wrapper Application
+
+Created a Flutter-based visitor management wrapper application with immersive kiosk interfaces, camera permission handling, and session recovery functionalities.
+
+### 📋 Web Based Task Management System
+
+Developed a full stack task management platform with role-based access control, workflow tracking, activity monitoring, and REST API integration.
+
+---
+
+## 📈 GitHub Stats
+
+![Sujitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujithaVenkidusamy\&show_icons=true\&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SujithaVenkidusamy\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujithaVenkidusamy\&layout=compact\&theme=radical)
+
+---
+
+## 🧠 Coding Profiles
+
+* 🔗 LinkedIn: https://linkedin.com/in/sujitha-venkidusamy-432b632bb
+* 🐱 GitHub: https://github.com/SujithaVenkidusamy
+* 💻 LeetCode: https://leetcode.com/u/SujithaVenkidusamy/
+* 📄 Resume: https://drive.google.com/file/d/1A8giEzXgRhhT1Lkk3Uoa-DlFJ4VslwI0/view
+
+---
+
+## 📬 Contact Me
+
+📧 [sujithavenkidusamy@gmail.com](mailto:sujithavenkidusamy@gmail.com)
+
+---
+
+> “Building responsive, scalable, and user-centric applications one project at a time.”
