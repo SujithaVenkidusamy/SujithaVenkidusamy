@@ -87,7 +87,7 @@ Developed a full stack task management platform with role-based access control, 
 * 🔗 LinkedIn: https://linkedin.com/in/sujitha-venkidusamy-432b632bb
 * 🐱 GitHub: https://github.com/SujithaVenkidusamy
 * 💻 LeetCode: https://leetcode.com/u/SujithaVenkidusamy/
-* 📄 Resume: https://drive.google.com/file/d/1A8giEzXgRhhT1Lkk3Uoa-DlFJ4VslwI0/view
+* 📄 Resume: https://drive.google.com/file/d/1XjMdOx2R4VzQaqxSCikIg7hBAcC2GDct/view?usp=drivesdk
 
 ---
 
