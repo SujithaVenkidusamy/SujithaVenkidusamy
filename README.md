@@ -2,8 +2,7 @@
 
 ### Aspiring Flutter & Full Stack Developer
 
-Passionate about building scalable cross-platform mobile applications and full stack web solutions with modern UI/UX, responsive workflows, and enterprise-level functionality.
-
+Passionate about developing scalable cross-platform mobile applications and full stack web solutions with responsive UI design and enterprise-level functionality.
 ---
 
 ## 🚀 About Me
@@ -20,31 +19,34 @@ Passionate about building scalable cross-platform mobile applications and full s
 
 ### Languages
 
-* Dart
-* JavaScript
-* HTML & CSS
-* Java
-* Python
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 ### Frameworks & Technologies
 
-* Flutter
-* React.js
-* Node.js
-* Laravel
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
 
 ### Database
 
-* MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Tools & Platforms
 
-* Git & GitHub
-* VS Code
-* Postman
-* XAMPP
-* Figma
-* Linux
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
 
 ---
 
@@ -69,6 +71,14 @@ Created a Flutter-based visitor management wrapper application with immersive ki
 ### 📋 Web Based Task Management System
 
 Developed a full stack task management platform with role-based access control, workflow tracking, activity monitoring, and REST API integration.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujithaVenkidusamy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 ---
 
