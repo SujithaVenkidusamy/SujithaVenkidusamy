@@ -74,9 +74,13 @@ Developed a full stack task management platform with role-based access control, 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujithaVenkidusamy\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SujithaVenkidusamy&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujithaVenkidusamy\&layout=compact\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithaVenkidusamy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 
 ---
